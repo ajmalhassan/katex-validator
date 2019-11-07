@@ -26,7 +26,7 @@ $ https://github.com/ajmalhassan/katex-validator.git my-project
 $ cd my-project
 
 # install dependencies
-$ npm i
+$ yarn
 ```
 
 ## Contribute
